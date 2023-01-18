@@ -18,16 +18,8 @@
         /* justify-content: space-around; */
     }
 
-    .courses-list .course img {
-        width: 90%;
-        height: auto;
-    }
     .course-info {
         justify-content: space-around;
     }
-
-    .player img {
-        width: 70%;
-        height: auto;
-    }
+  
 }
